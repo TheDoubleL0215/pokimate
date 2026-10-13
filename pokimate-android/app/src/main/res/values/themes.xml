@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Pokimate" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/pokimate_background</item>
+        <item name="android:navigationBarColor">@color/pokimate_background</item>
+        <item name="android:windowBackground">@color/pokimate_background</item>
+        <item name="android:colorPrimary">#2F7BFF</item>
+    </style>
+</resources>

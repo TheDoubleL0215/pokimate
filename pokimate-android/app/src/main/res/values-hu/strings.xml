@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokimate</string>
+
+    <string name="a11y_back">Vissza</string>
+    <string name="a11y_close">Bezárás</string>
+    <string name="a11y_hand_rankings">Kézrangsor</string>
+    <string name="a11y_menu">Menü</string>
+    <string name="a11y_settings">Beállítások</string>
+
+    <string name="action_call">Megadás %d</string>
+    <string name="action_call_short">MEGADÁS</string>
+    <string name="action_check">Check</string>
+    <string name="action_confirm">MEGERŐSÍT</string>
+    <string name="action_confirm_fmt">MEGERŐSÍT: %s</string>
+    <string name="action_continue">TOVÁBB</string>
+    <string name="action_enter">Belépés %d</string>
+    <string name="action_fold">BEDOBÁS</string>
+    <string name="action_raise">EMELÉS</string>
+
+    <string name="banner_bet">TÉT $%d</string>
+    <string name="banner_call">MEGADÁS $%d</string>
+    <string name="banner_check">CHECK</string>
+    <string name="banner_enter">BELÉPÉS $%d</string>
+    <string name="banner_fold">BEDOBÁS</string>
+    <string name="banner_raise">EMELÉS $%d</string>
+
+    <string name="common_off">KI</string>
+    <string name="common_on">BE</string>
+
+    <string name="game_amount_with_hand">%1$d (%2$s)</string>
+    <string name="game_bets">%1$s betel %2$d-et</string>
+    <string name="game_blinds">Blindekel…</string>
+    <string name="game_calls">%1$s megad %2$d-t</string>
+    <string name="game_checks">%s checkel</string>
+    <string name="game_dealing">Kiosztás…</string>
+    <string name="game_enter_or_fold">Belépés vagy bedobás</string>
+    <string name="game_enters">%1$s beszáll %2$d-ért</string>
+    <string name="game_flop">Flop</string>
+    <string name="game_folds">%s bedobja</string>
+    <string name="game_hand_over">Kéz vége</string>
+    <string name="game_no_blinds">Nincs blind — döntés a kiosztás után</string>
+    <string name="game_not_enough_players">Nincs elég játékos zsetonnal</string>
+    <string name="game_player_hand">%1$s: %2$s</string>
+    <string name="game_player_wins">%1$s nyeri: %2$s</string>
+    <string name="game_posts_bb">%1$s berakja a BB-t: %2$d</string>
+    <string name="game_posts_sb">%1$s berakja az SB-t: %2$d</string>
+    <string name="game_preflop">Preflop</string>
+    <string name="game_raises_to">%1$s emel %2$d-re</string>
+    <string name="game_reveals">%s felfedi…</string>
+    <string name="game_river">River</string>
+    <string name="game_showdown">Mutatás</string>
+    <string name="game_split_pot">Megosztott pot: %s</string>
+    <string name="game_split_side_pots">Megosztott / side potok %1$d: %2$s</string>
+    <string name="game_tap_to_start">Koppints a kezdéshez</string>
+    <string name="game_thinking">%s gondolkodik…</string>
+    <string name="game_turn">Turn</string>
+    <string name="game_with_hand">%s</string>
+    <string name="game_you_win">Nyertél: %s</string>
+    <string name="game_your_turn">Te jössz</string>
+
+    <string name="hand_flush">Szín</string>
+    <string name="hand_four_of_a_kind">Póker</string>
+    <string name="hand_full_house">Full</string>
+    <string name="hand_high_card">Magas lap</string>
+    <string name="hand_one_pair">Pár</string>
+    <string name="hand_royal_flush">Royal Flush</string>
+    <string name="hand_straight">Sor</string>
+    <string name="hand_straight_flush">Színsor</string>
+    <string name="hand_three_of_a_kind">Drill</string>
+    <string name="hand_two_pair">Két pár</string>
+
+    <string name="menu_new_game">ÚJ JÁTÉK</string>
+    <string name="menu_settings">BEÁLLÍTÁSOK</string>
+    <string name="menu_stats">STATISZTIKÁK</string>
+
+    <string name="phase_waiting">Várakozás</string>
+
+    <string name="player_folded">Bedobva</string>
+    <string name="player_you">Te</string>
+
+    <string name="settings_language">Nyelv</string>
+    <string name="settings_language_subtitle">Válaszd ki, milyen nyelven használd az alkalmazást.</string>
+    <string name="settings_title">Beállítások</string>
+    <string name="settings_lang_en">English</string>
+    <string name="settings_lang_hu">Magyar</string>
+    <string name="settings_lang_system">Rendszer alapértelmezett</string>
+
+    <string name="setup_base_bet">Alaptét</string>
+    <string name="setup_blinds">Blindekel</string>
+    <string name="setup_blinds_off">Blind nélkül: lapok után belépés vagy bedobás</string>
+    <string name="setup_blinds_on">Klasszikus Hold’em: SB / BB minden kéz elején</string>
+    <string name="setup_blinds_sb_bb">Small %1$d / Big %2$d</string>
+    <string name="setup_bots">Botok</string>
+    <string name="setup_bots_subtitle">%d ellenfél az asztalnál</string>
+    <string name="setup_chips_rule">A kezdőzseton legyen legalább az alaptét négyszerese.</string>
+    <string name="setup_raise_unit">Emelés egysége: %d</string>
+    <string name="setup_sit_down">ASZTALHOZ ÜLÉS</string>
+    <string name="setup_starting_chips">Kezdőzseton</string>
+    <string name="setup_starting_chips_subtitle">Minden játékos %d zsetonnal indul</string>
+
+    <string name="stats_empty_hands">Még nincs leosztás. Játssz egy menetet!</string>
+    <string name="stats_title">Statisztikák</string>
+
+    <string name="table_pot">POT</string>
+</resources>
